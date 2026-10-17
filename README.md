@@ -1,4 +1,4 @@
-﻿🏥# Medical Cost Analysis
+﻿# Medical Cost Analysis
 
 ## Project Overview
 
