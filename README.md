@@ -8,11 +8,7 @@ This project analyzes medical insurance cost data (1,338 records) to explore how
 
 ## Power BI Dashboard
 
-
-
-![Medical Cost Dashboard]
-
-
+https://github.com/AnfalHaroon/Medical-Cost-Analysis/blob/main/Medical_Cost_Analysis_Dashboard.png
 
 The dashboard includes:
 
